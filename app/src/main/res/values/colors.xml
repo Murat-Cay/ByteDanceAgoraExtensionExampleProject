@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9c41f8</color>
+    <color name="colorPrimaryDark">#9c41f8</color>
+    <color name="colorAccent">#000000</color>
+
+    <!-- Common -->
+    <color name="black">#000000</color>
+    <color name="blackOpacity">#3d000000</color>
+    <color name="blackOpacityV2">#73000000</color>
+    <color name="blackOpacityV3">#28000000</color>
+    <color name="blackOpacityV4">#E6000000</color>
+    <color name="blackOpacity80">#CC000000</color>
+    <color name="blackOpacity40">#66000000</color>
+    <color name="tuna">#CC313242</color>
+    <color name="giftOpacity">#a6000000</color>
+    <color name="gift40Opacity">#66121212</color>
+    <color name="goal10Opacity">#19000000</color>
+    <color name="red">#ff0000</color>
+    <color name="dark_gray">#3f3f3f</color>
+    <color name="white">#ffffff</color>
+    <color name="white50Opacity">#80FFFFFF</color>
+    <color name="white70Opacity">#B3FFFFFF</color>
+    <color name="tab_border">#F3F5F8</color>
+    <color name="whiteTransparent">#ccffffff</color>
+    <color name="button_disabled_color">#a8b3cf</color>
+    <color name="button_enabled_color">#000000</color>
+    <color name="brown_gray">#8b8b8b</color>
+    <color name="gray_hint_color">#6273a1</color>
+    <color name="link_color">#0000EE</color>
+    <color name="orange">#ff7f00</color>
+    <color name="divider_color">#d0d5e3</color>
+    <color name="online_color">#6fdb68</color>
+    <color name="pulse_color">#80000000</color>
+    <color name="edittext_default_bg_color">#f4f7ff</color>
+    <color name="primary_soft">#d6e1ff</color>
+    <color name="whiteAlpha">#80ffffff</color>
+    <color name="cikcikBlue">#2663f0</color>
+    <color name="app_gallery_background">#E7E8EB</color>
+    <color name="banner_random_call_color">#797878</color>
+    <color name="bottom_sheet_dialog_drag_handle">#C1C6D1</color>
+    <color name="purple_button_color">#A653EF</color>
+    <color name="black_text_color">#121212</color>
+    <color name="edittext_hint_color">#949CA8</color>
+
+    <!-- Notice Message -->
+    <color name="notice_message_bg_color">#82D10E00</color>
+
+    <!-- Register -->
+    <color name="register_title_color">#313154</color>
+    <color name="register_gender_unselected_color">#f5f5f5</color>
+    <color name="register_gender_selected_color">#2663f0</color>
+    <color name="register_age_unselected_color">#4D313154</color>
+    <color name="register_complete_pulse_color">#6273a1</color>
+
+    <!-- Login -->
+    <color name="google_login_bg">#ececec</color>
+
+    <!-- Home -->
+    <color name="home_active_tab_color">#ffffff</color>
+    <color name="home_in_active_tab_color">#7E8594</color>
+
+    <!-- Discover People -->
+    <color name="discover_people_tab_indicator_color">#2663f0</color>
+    <color name="discover_people_tab_selected_color">#000000</color>
+    <color name="discover_people_tab_unselected_color">#99000000</color>
+
+    <!-- Profile -->
+    <color name="profile_bg_color">#f4f7ff</color>
+    <color name="profile_add_crystal_bg_color">#2663f0</color>
+
+    <!-- Profile Settings -->
+    <color name="notification_switch_on">#2663f0</color>
+    <color name="notification_switch_off">#802663f0</color>
+    <color name="delete_profile_text_color">#ff2d6c</color>
+
+    <!-- Call History -->
+    <color name="rejected_call_color">#ff2d6c</color>
+    <color name="outgoing_call_color">#2663f0</color>
+    <color name="missed_call_color">#6273a1</color>
+    <color name="incoming_call_color">#9c41f8</color>
+
+    <!-- Chats -->
+    <color name="chat_seen_date_color">#6273a1</color>
+    <color name="chat_unseen_date_color">#2663f0</color>
+
+    <!-- Chat Messages -->
+    <color name="chat_message_area_background">#f4f7ff</color>
+    <color name="chat_message_translate_text_color">#A8B3CF</color>
+
+    <!-- Edit Profile -->
+    <color name="edit_profile_hint_color">#2663f0</color>
+
+    <!-- Update About -->
+    <color name="update_about_character_limit_color">#2663f0</color>
+
+    <!-- People Detail -->
+    <color name="people_detail_country_color">#6273a1</color>
+    <color name="people_detail_item_bg_color">#f4f7ff</color>
+    <color name="people_detail_item_text_color">#6273a1</color>
+
+    <!-- Verify Account -->
+    <color name="verify_account_privacy_color">#6273a1</color>
+
+    <!-- Verify Face -->
+    <color name="verify_face_message_bg_color">#66000000</color>
+
+    <!-- Video Call -->
+    <color name="video_call_message_area_bg_color">#80000000</color>
+    <color name="video_call_message_item_divider_color">#33FFFFFF</color>
+
+    <!-- Party Call -->
+    <color name="party_icon_border_color">#a8b3cf</color>
+    <color name="join_party_limited_access_border_color">#2663f0</color>
+    <color name="join_party_unlimited_access_border_color">#d0d5e3</color>
+    <color name="join_party_limited_access_bg_color">#f4f7ff</color>
+
+    <!-- Profile Wallet -->
+    <color name="current_amount_area_bg_color">#f4f7ff</color>
+    <color name="cash_out_button_bg_color">#2663f0</color>
+    <color name="total_payment_info_color">#2663f0</color>
+    <color name="payment_info_color">#26b3f0</color>
+    <color name="call_info_color">#9c41f8</color>
+    <color name="payment_approve_bg_color">#00a2dd</color>
+    <color name="payment_history_item_bg_color">#f4f7ff</color>
+
+    <!-- Profile Competition Leaderboard -->
+    <color name="profile_competition_earned_bg_color">#00c98b</color>
+    <color name="profile_competition_end_date_text_color">#2663f0</color>
+    <color name="profile_competition_first_user_bg_color">#ffc700</color>
+    <color name="profile_competition_second_user_bg_color">#979797</color>
+    <color name="profile_competition_third_user_bg_color">#ff9574</color>
+
+    <!-- Chat Messages -->
+    <color name="chat_message_sender_me_bg_color">#2663f0</color>
+    <color name="chat_message_sender_is_not_me_bg_color">#f4f7ff</color>
+
+    <!-- Voice Player View -->
+    <color name="pink">#fe485a</color>
+    <color name="lightPink">#ef818c</color>
+    <color name="gray">#7C7C7C</color>
+
+    <!-- Agent Party Call  -->
+    <color name="party_call_type_freemium_bg_color">#26b3f0</color>
+    <color name="party_call_type_premium_bg_color">#9c41f8</color>
+    <color name="agent_profile_info_bg_color">#e61f1f1f</color>
+    <color name="agent_host_disconnected_remaining_time_progress_active_color">#26b3f0</color>
+    <color name="agent_host_disconnected_remaining_time_progress_in_active_color">#b6bbd8</color>
+    <color name="agent_party_call_profile_info_stroke_color">#7e8594</color>
+    <color name="agent_party_call_profile_info_follow_bg_color">#2663f0</color>
+
+    <!-- Party Mute -->
+    <color name="party_call_mute_message_bg_color">#4d000000</color>
+
+    <!-- Party Switch Unlimited -->
+    <color name="party_switch_unlimited_amount_stroke_color">#a8b3cf</color>
+    <color name="party_switch_unlimited_amount_second_stroke_color">#26b3f0</color>
+
+    <!-- Agent Freemium Party Call Viewers -->
+    <color name="agent_freemium_party_call_viewers_switch_button_color">#2663f0</color>
+
+    <!-- Banuba Filters Intensity-->
+    <color name="intensity_color">#AEAEB2</color>
+    <color name="intensity_selected_color">#30B0C7</color>
+
+    <!-- Banuba Filters Colors-->
+    <color name="filterColor1">#FF6633</color>
+    <color name="filterColor2">#FFB399</color>
+    <color name="filterColor3">#FF33FF</color>
+    <color name="filterColor4">#FFFF99</color>
+    <color name="filterColor5">#00B3E6</color>
+    <color name="filterColor6">#E6B333</color>
+    <color name="filterColor7">#3366E6</color>
+    <color name="filterColor8">#999966</color>
+    <color name="filterColor9">#99FF99</color>
+    <color name="filterColor10">#B34D4D</color>
+    <color name="filterColor11">#80B300</color>
+    <color name="filterColor12">#E6B3B3</color>
+    <color name="filterColor13">#6680B3</color>
+    <color name="filterColor14">#66991A</color>
+    <color name="filterColor15">#FF99E6</color>
+    <color name="filterColor16">#CCFF1A</color>
+    <color name="filterColor17">#FF1A66</color>
+    <color name="filterColor18">#E6331A</color>
+    <color name="filterColor19">#33FFCC</color>
+
+    <color name="rewarded_white">#fbfbfd</color>
+    <color name="agent_sticker_gift_button_color">#2663f0</color>
+    <color name="party_race_photo_blue_border_color">#0048ff</color>
+    <color name="party_race_photo_yellow_border_color">#FF8E00</color>
+    <color name="party_race_photo_green_border_color">#36910F</color>
+
+
+    <color name="wheel_text_color">#121212</color>
+
+    <color name="progress_bar_background_color">#EAEDF0</color>
+    <color name="progress_bar_progress_color">#EC222E</color>
+    <color name="tip_box_text_color">#BCC0CB</color>
+    <color name="wallet_daily_earning_info_table_background_color">#F3F5F8</color>
+
+    <color name="wallet_daily_earning_info_table_text_color">#777F8A</color>
+
+    <!-- Suggested Profile follow background color-->
+    <color name="suggested_follow_background">#6fdb68</color>
+    <color name="suggested_follower_text_color">#828297</color>
+
+    <color name="swipe_to_delete_bg_color">#FF5540</color>
+    <color name="chat_system_message_item_bg_color">#F4D35E</color>
+    <color name="chat_you_are_blocked_message_item_bg_color">#FFE1EA</color>
+    <color name="chat_you_blocked_message_item_bg_color">#D6E1FF</color>
+
+    <!-- Agent Party Viewers Colors -->
+    <color name="agent_party_viewers_level_bg">#27D3C9</color>
+    <color name="agent_party_viewers_add_to_premium_bg">#ECFCFF</color>
+    <color name="agent_party_viewers_add_to_premium_text_color">#00C6F1</color>
+    <color name="agent_party_viewers_added_premium_bg">#E5FFEC</color>
+    <color name="agent_party_viewers_added_premium_text_color">#25C74E</color>
+
+    <!-- Agent Party Call Connection State -->
+    <color name="agent_party_call_bad_connection_state_bg">#EC3F49</color>
+
+    <!-- General Button Background Color -->
+    <color name="purple_background_color">#A653EF</color>
+
+    <color name="white_smoke">#F3F5F8</color>
+    <color name="sky_blue">#00C6F1</color>
+    <color name="tertiary">#27D3C9</color>
+
+    <!-- New Party Design -->
+    <color name="party_message_input_background">#990A050E</color>
+    <color name="party_message_input_text_hint_color">#C6C6C6</color>
+    <color name="party_message_rounded_button_background">#660A050E</color>
+    <color name="party_viewers_background">#66121212</color>
+    <color name="party_viewers_text_color">#949CA8</color>
+    <color name="party_call_viewer_level_color">#27D3C9</color>
+    <color name="report_text_color_stream">#EC3F49</color>
+
+    <color name="green_alert">#25C74E</color>
+    <color name="yellow_alert">#E1B724</color>
+    <color name="red_alert">#EC3F49</color>
+    <color name="trendy_pink">#84669E</color>
+    <color name="cool_grey">#949CA8</color>
+    <drawable name="transparent_icon">#00000000</drawable>
+</resources>

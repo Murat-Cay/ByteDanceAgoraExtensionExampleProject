@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fun2lite.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:7:5-76
+13-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:8:5-81
+14-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:9:5-80
+15-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:10:5-71
+16-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:10:22-68
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:11:5-65
+17-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:11:22-62
+18    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+18-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:12:5-80
+18-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:12:22-77
+19    <uses-permission android:name="android.permission.BLUETOOTH" />
+19-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:13:5-68
+19-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:13:22-65
+20    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+20-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:14:5-76
+20-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:14:22-73
+21    <uses-permission android:name="android.permission.VIBRATE" />
+21-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:15:5-66
+21-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:15:22-63
+22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+22-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:16:5-77
+22-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:16:22-74
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:17:5-67
+23-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:17:22-65
+24    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+24-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:18:5-81
+24-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:18:22-78
+25    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+25-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:19:5-75
+25-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:19:22-72
+26
+27    <uses-feature android:name="android.hardware.camera.any" />
+27-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:20:5-64
+27-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:20:19-61
+28    <uses-feature
+28-->[:lib_bytedance] /Users/murat/Documents/ByteDanceAgoraCrashExample/lib_bytedance/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-12:35
+29        android:glEsVersion="0x00020000"
+29-->[:lib_bytedance] /Users/murat/Documents/ByteDanceAgoraCrashExample/lib_bytedance/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:9-41
+30        android:required="true" />
+30-->[:lib_bytedance] /Users/murat/Documents/ByteDanceAgoraCrashExample/lib_bytedance/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:9-32
+31
+32    <permission
+32-->[androidx.core:core:1.10.1] /Users/murat/.gradle/caches/transforms-4/f0069b5ab79b5598f916cacd021b0cd7/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+33        android:name="com.fun2lite.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+33-->[androidx.core:core:1.10.1] /Users/murat/.gradle/caches/transforms-4/f0069b5ab79b5598f916cacd021b0cd7/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+34        android:protectionLevel="signature" />
+34-->[androidx.core:core:1.10.1] /Users/murat/.gradle/caches/transforms-4/f0069b5ab79b5598f916cacd021b0cd7/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+35
+36    <uses-permission android:name="com.fun2lite.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+36-->[androidx.core:core:1.10.1] /Users/murat/.gradle/caches/transforms-4/f0069b5ab79b5598f916cacd021b0cd7/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+36-->[androidx.core:core:1.10.1] /Users/murat/.gradle/caches/transforms-4/f0069b5ab79b5598f916cacd021b0cd7/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+37
+38    <application
+38-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:23:5-43:19
+39        android:name="com.volvoxmobile.bytedanceagoracrashexample.HiltApplication"
+39-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:24:9-40
+40        android:allowBackup="true"
+40-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:25:9-35
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.10.1] /Users/murat/.gradle/caches/transforms-4/f0069b5ab79b5598f916cacd021b0cd7/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+42        android:dataExtractionRules="@xml/data_extraction_rules"
+42-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:26:9-65
+43        android:debuggable="true"
+44        android:extractNativeLibs="false"
+45        android:fullBackupContent="@xml/backup_rules"
+45-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:27:9-54
+46        android:icon="@mipmap/ic_launcher"
+46-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:28:9-43
+47        android:label="@string/app_name"
+47-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:29:9-41
+48        android:roundIcon="@mipmap/ic_launcher_round"
+48-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:30:9-54
+49        android:supportsRtl="true"
+49-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:31:9-35
+50        android:testOnly="true"
+51        android:theme="@style/Theme.ByteDanceAgoraCrashExample" >
+51-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:32:9-64
+52        <activity
+52-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:34:9-42:20
+53            android:name="com.volvoxmobile.bytedanceagoracrashexample.MainActivity"
+53-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:35:13-41
+54            android:exported="true" >
+54-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:36:13-36
+55            <intent-filter>
+55-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:37:13-41:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:38:17-69
+56-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:38:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:40:17-77
+58-->/Users/murat/Documents/ByteDanceAgoraCrashExample/app/src/main/AndroidManifest.xml:40:27-74
+59            </intent-filter>
+60        </activity>
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.2.0] /Users/murat/.gradle/caches/transforms-4/62d819cca22267cc9ea3350cc3f3275d/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.2.0] /Users/murat/.gradle/caches/transforms-4/62d819cca22267cc9ea3350cc3f3275d/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+64            android:authorities="com.fun2lite.app.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.2.0] /Users/murat/.gradle/caches/transforms-4/62d819cca22267cc9ea3350cc3f3275d/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.2.0] /Users/murat/.gradle/caches/transforms-4/62d819cca22267cc9ea3350cc3f3275d/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.2.0] /Users/murat/.gradle/caches/transforms-4/62d819cca22267cc9ea3350cc3f3275d/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.2.0] /Users/murat/.gradle/caches/transforms-4/62d819cca22267cc9ea3350cc3f3275d/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.2.0] /Users/murat/.gradle/caches/transforms-4/62d819cca22267cc9ea3350cc3f3275d/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/murat/.gradle/caches/transforms-4/448ae18c679dca2279ac8e53ef6f45a2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/murat/.gradle/caches/transforms-4/448ae18c679dca2279ac8e53ef6f45a2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/murat/.gradle/caches/transforms-4/448ae18c679dca2279ac8e53ef6f45a2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+72            <meta-data
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+73                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+74                android:value="androidx.startup" />
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+75        </provider>
+76
+77        <receiver
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+78            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+79            android:directBootAware="false"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+80            android:enabled="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+81            android:exported="true"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+82            android:permission="android.permission.DUMP" >
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+84                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+87                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+90                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+93                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/murat/.gradle/caches/transforms-4/078c3f65fc8bd3763f02e710d5981de3/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+94            </intent-filter>
+95        </receiver>
+96    </application>
+97
+98</manifest>

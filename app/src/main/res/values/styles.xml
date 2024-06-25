@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bottom_dark_dialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0</item>
+        <item name="enableEdgeToEdge">true</item>
+    </style>
+
+    <style name="beauty_slider" parent="Widget.Material3.Tooltip">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:minWidth">28dp</item>
+        <item name="android:minHeight">28dp</item>
+        <item name="shapeAppearance">@null</item>
+        <item name="backgroundTint">@android:color/transparent</item>
+    </style>
+
+    <style name="ByteDanceTabTextStyle" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:fontFamily">@font/manrope_medium</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="AppBottomSheetDialogTransparentTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppModalStyleTransparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0</item>
+        <item name="enableEdgeToEdge">true</item>
+    </style>
+    <style name="AppModalStyleTransparent" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/AlertDialogTitleTextStyle</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/AlertDialogBodyTextStyle</item>
+        <item name="buttonBarPositiveButtonStyle">@style/AlertDialogButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">@style/AlertDialogButtonStyle</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="colorPrimary">@android:color/black</item>
+    </style>
+
+    <style name="AlertDialogButtonStyle" parent="Base.TextAppearance.MaterialComponents.Button">
+        <item name="android:fontFamily">@font/montserrat_semi_bold</item>
+        <item name="fontFamily">@font/montserrat_semi_bold</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="AlertDialogTitleTextStyle" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="colorPrimary">@android:color/black</item>
+    </style>
+
+    <style name="AlertDialogBodyTextStyle" parent="MaterialAlertDialog.MaterialComponents.Body.Text">
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+        <item name="android:textSize">@dimen/text_size_semi_large</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="colorPrimary">@color/dark_gray</item>
+    </style>
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">ByteDanceAgoraCrashExample</string>
+    <!-- SDK Init -->
+    <string name="beauty_group_beauty_effects">Beauty Effects</string>
+    <string name="beauty_group_image_quality">Image Quality</string>
+    <string name="beauty_group_makeup">Make Up</string>
+    <string name="beauty_group_background_blur">Background Blur</string>
+    <string name="beauty_group_default_filters">Varsayılan Filtreler</string>
+    <string name="beauty_group_others">Other</string>
+    <string name="beauty_item_none">Turn off</string>
+    <string name="ready_effects_item_none">Turn off2</string>
+    <!-- Beauty Effects -->
+    <string name="beauty_item_face">Face</string>
+    <string name="beauty_item_jawbone">Jawbone</string>
+    <string name="beauty_item_deform">Deform</string>
+
+    <string name="beauty_item_eye">Eye</string>
+    <string name="beauty_item_eye_shadow">Eye Shadow</string>
+    <string name="beauty_item_eye_shadow_red">Kırmızı</string>
+    <string name="beauty_item_eye_shadow_light_pink">Açık Pembe</string>
+    <string name="beauty_item_eye_shadow_light_coffee">Açık Kahve</string>
+    <string name="beauty_item_eye_shadow_pink">Pembe</string>
+    <string name="beauty_item_eye_shadow_red2">Kırmızı</string>
+    <string name="beauty_item_eye_shadow_caramel">Karamel</string>
+    <string name="beauty_item_eye_shadow_orange">Turuncu</string>
+    <string name="beauty_item_eye_shadow_brown">Kahverengi</string>
+    <string name="beauty_item_eye_shadow_sekoya">sekoya</string>
+    <string name="beauty_item_eye_shadow_brown2">Kahverengi</string>
+    <string name="beauty_item_eye_shadow_coral">Mercan</string>
+    <string name="beauty_item_eye_shadow_sun_red">Güneş Kızılı</string>
+
+    <string name="beauty_item_eye_size">Eye Size</string>
+
+    <string name="beauty_item_nose">Nose</string>
+    <string name="beauty_item_nose_deform">Deform Nose</string>
+
+    <string name="beauty_item_mouth">Mouth</string>
+    <string name="beauty_item_mouth_zoom">Mouth Zoom</string>
+    <string name="beauty_item_mouth_whiten_teeth">Whiten Teeth</string>
+    <!-- Image Quality -->
+    <string name="image_quality_item_clear">Temizle</string>
+    <string name="image_quality_item_smooth">Akıcılık</string>
+    <string name="image_quality_item_whiteen">Beyazlık</string>
+    <string name="image_quality_item_sharp">Keskinlik</string>
+
+    <string name="image_quality_item_contrast">Contrast</string>
+    <string name="image_quality_item_tone">Hue</string>
+    <string name="image_quality_item_saturation">Saturation</string>
+    <string name="image_quality_item_temperature">Temperature</string>
+    <!-- Make Up -->
+    <string name="make_up_item_lenses">Lenses</string>
+    <string name="make_up_item_lens_brown">Kahverengi</string>
+    <string name="make_up_item_lens_cocoa_coffee">Kakao Kahvesi</string>
+    <string name="make_up_item_lens_peach_pink">Şeftali Pembesi</string>
+    <string name="make_up_item_lens_water_light_black">Su Işığı Siyah</string>
+    <string name="make_up_item_lens_star_blue">Yıldız Mavisi</string>
+    <string name="make_up_item_lens_amber">Amber</string>
+    <string name="make_up_item_lens_rose_red">Gül Kırmızısı</string>
+    <string name="make_up_item_lens_gray">Gri</string>
+    <string name="make_up_item_lens_light_gray">Açık Gri</string>
+    <string name="make_up_item_lens_coffee_with_milk">Sütlü Kahve</string>
+    <string name="make_up_item_lens_dark_brown">Koyu Kahverengi</string>
+
+    <string name="make_up_item_LipColor">LipColor</string>
+    <string name="make_up_item_LipStick1">Açık Pembe</string>
+    <string name="make_up_item_LipStick2">Bordo</string>
+    <string name="make_up_item_LipStick3">Karpuz Kırmızısı</string>
+    <string name="make_up_item_LipStick4">Turuncu</string>
+    <string name="make_up_item_LipStick5">Pembe</string>
+    <string name="make_up_item_LipStick6">Kadife Kırmızısı</string>
+    <string name="make_up_item_LipStick7">Mercan Kırmızısı</string>
+    <string name="make_up_item_LipStick8">Tok Pembe</string>
+    <string name="make_up_item_LipStick9">Tok Turuncu</string>
+    <string name="make_up_item_LipStick10">Koyu Kırmızı</string>
+
+    <string name="make_up_item_HairColor">HairColor</string>
+    <string name="make_up_item_HairColor_dark_blue">Koyu Kahverengi</string>
+    <string name="make_up_item_HairColor_dark_green">Koyu Yeşil</string>
+    <string name="make_up_item_HairColor_dark_brown">Koyu Kahverengi</string>
+
+    <string name="make_up_item_blusher">Blush</string>
+    <string name="make_up_item_blush1">Hafif</string>
+    <string name="make_up_item_blush2">Günlük</string>
+    <string name="make_up_item_blush3">Şeftali</string>
+    <string name="make_up_item_blush4">Açık Turuncu</string>
+    <string name="make_up_item_blush5">Pembe</string>
+    <string name="make_up_item_blush6">Turuncu</string>
+    <string name="make_up_item_blush7">Hafif Kırmızı</string>
+
+    <string name="make_up_item_contour">Contour</string>
+    <string name="make_up_item_contour1">Sarı</string>
+    <string name="make_up_item_contour2">Pembe</string>
+    <string name="make_up_item_contour3">Turuncu</string>
+    <string name="make_up_item_contour4">Kahverengi</string>
+    <string name="make_up_item_contour5">Tok Turuncu</string>
+
+    <string name="make_up_item_eyebrow">Kaş</string>
+    <string name="make_up_item_eyebrow1">Siyah</string>
+    <string name="make_up_item_eyebrow2">Kahverengi</string>
+    <string name="make_up_item_eyebrow3">Simsiyah</string>
+    <string name="make_up_item_eyebrow4">İnce ve Siyah</string>
+    <string name="make_up_item_eyebrow5">Gri</string>
+    <string name="make_up_item_eyebrow6">İnce ve Kuyruklu</string>
+    <string name="make_up_item_eyebrow7">Kalın ve Gri</string>
+    <string name="make_up_item_eyebrow8">Kavisli ve Siyah</string>
+
+    <string name="make_up_item_acne_removal">Akne Temizleme</string>
+    <!-- Background Blur -->
+    <string name="background_blur_item_default">Default</string>
+    <string name="background_blur_item_enhanced">Enhanced Edition</string>
+    <string name="background_blur_item_adjustable">Adjustable</string>
+
+    <!-- Background Blur -->
+
+    <string name="clear_filters">Filtreleri Temizle</string>
+    <string name="clear_filters_content">Aktif olan filtreleri kaldırmak istediğinize emin misiniz?</string>
+    <string name="ready_effects">Hazır Efektler</string>
+</resources>

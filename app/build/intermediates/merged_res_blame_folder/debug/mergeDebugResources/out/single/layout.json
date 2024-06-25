@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-mergeDebugResources-46:/layout/item_beauty_effect.xml",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/item_beauty_effect.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-mergeDebugResources-46:/layout/fragment_byte_dance_beauty_bottom_sheet.xml",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/fragment_byte_dance_beauty_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-mergeDebugResources-46:/layout/item_beauty_tab_page.xml",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/item_beauty_tab_page.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/activity_main.xml"
+    }
+]

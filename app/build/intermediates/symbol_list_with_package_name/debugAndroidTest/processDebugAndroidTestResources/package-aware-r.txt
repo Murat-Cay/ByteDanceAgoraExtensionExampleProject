@@ -1,0 +1,3 @@
+com.volvoxmobile.bytedanceagoracrashexample.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_manrope_bold.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/manrope_bold.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_blur_enhanced.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_blur_enhanced.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_image_quality_temperature.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_image_quality_temperature.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_smooth.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_smooth.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_make_up_lenses.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_make_up_lenses.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_item_mouth.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_item_mouth.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beautfy_sub_item_jawbone.png.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beautfy_sub_item_jawbone.png"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beautfy_eye_sub_item_eye_size.png.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beautfy_eye_sub_item_eye_size.png"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_bold.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_filter_beauty.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/filter_beauty.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beautfy_sub_item_nose_deform.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beautfy_sub_item_nose_deform.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beautfy_sub_item_deform.png.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beautfy_sub_item_deform.png"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_manrope_light.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/manrope_light.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_blur_default.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_blur_default.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_image_quality_saturation.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_image_quality_saturation.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/layout_bg_beauty_btn.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/bg_beauty_btn.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_medium.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_medium.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_whiteen.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_whiteen.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_bytedance_effect.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_bytedance_effect.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_make_up_blush.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_make_up_blush.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_bottom_sheet_indicator_dark.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_bottom_sheet_indicator_dark.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_item_eye_shadow_sub.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_item_eye_shadow_sub.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_item_cut_right.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_item_cut_right.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_medium_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_medium_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_image_quality_hue.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_image_quality_hue.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_sharp.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_sharp.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_blur_adjustable.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_blur_adjustable.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_item_eye.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_item_eye.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_manrope_regular.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/manrope_regular.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_sub_item_eye_lens.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_sub_item_eye_lens.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_light_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_light_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_extra_light.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_extra_light.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_black_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_black_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/layout_item_beauty_tab_page.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/item_beauty_tab_page.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_make_up_eyebrow.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_make_up_eyebrow.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/layout_fragment_byte_dance_beauty_bottom_sheet.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/fragment_byte_dance_beauty_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_none.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_none.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_recv_ic_arrow.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/recv_ic_arrow.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_clear.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_clear.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_semi_bold_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_semi_bold_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_bg_bottom_bytedance_dialog.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/bg_bottom_bytedance_dialog.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_make_up_lip_color.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_make_up_lip_color.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/xml_backup_rules.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_bottom_sheet_indicator.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_bottom_sheet_indicator.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/layout_item_beauty_effect.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/item_beauty_effect.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_manrope_extra_bold.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/manrope_extra_bold.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_item_nose.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_item_nose.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_bytedance_refresh_rotate.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_bytedance_refresh_rotate.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_bytedance_selected_dot.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/bytedance_selected_dot.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_regular.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_manrop_semi_bold.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/manrop_semi_bold.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_make_up_contour.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_make_up_contour.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_bold_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_bold_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_manrope_medium.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/manrope_medium.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_light.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_light.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/layout_bg_beauty_item.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/layout/bg_beauty_item.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_extra_light_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_extra_light_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_bytedance_arrow.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_bytedance_arrow.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_make_up_hair_color.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_make_up_hair_color.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_block_in_stream.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_block_in_stream.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_thin_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_thin_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_extra_bold_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_extra_bold_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_teeth_whitening_pasif.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_teeth_whitening_pasif.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_extra_bold.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_extra_bold.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_image_quality_contrast.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_image_quality_contrast.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_make_up_acne_removal.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_make_up_acne_removal.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_item_face.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_item_face.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_bytedance_selected_cardview.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/bytedance_selected_cardview.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_black.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_black.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_semi_bold.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_semi_bold.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_italic.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_italic.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/drawable_ic_beauty_mouth_smile_pasif.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/drawable/ic_beauty_mouth_smile_pasif.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_montserrat_thin.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/montserrat_thin.ttf"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.volvoxmobile.bytedanceagoracrashexample.app-debug-47:/font_manrope_extra_light.ttf.flat",
+        "source": "com.volvoxmobile.bytedanceagoracrashexample.app-main-49:/font/manrope_extra_light.ttf"
+    }
+]

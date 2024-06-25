@@ -1,0 +1,6 @@
+com.volvoxmobile.bytedanceagoracrashexample.test.app-core-1.5.0-0 /Users/murat/.gradle/caches/transforms-4/288a10a3cdf2dc7ca571f3e90c29af1c/transformed/core-1.5.0/res
+com.volvoxmobile.bytedanceagoracrashexample.test.app-annotation-experimental-1.3.0-1 /Users/murat/.gradle/caches/transforms-4/9b1ef94cbce70197b33f37018a40e360/transformed/annotation-experimental-1.3.0/res
+com.volvoxmobile.bytedanceagoracrashexample.test.app-androidTest-2 /Users/murat/AndroidStudioProjects/ByteDanceAgoraCrashExample/app/build/generated/res/resValues/androidTest/debug
+com.volvoxmobile.bytedanceagoracrashexample.test.app-mergeDebugAndroidTestResources-3 /Users/murat/AndroidStudioProjects/ByteDanceAgoraCrashExample/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.volvoxmobile.bytedanceagoracrashexample.test.app-mergeDebugAndroidTestResources-4 /Users/murat/AndroidStudioProjects/ByteDanceAgoraCrashExample/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.volvoxmobile.bytedanceagoracrashexample.test.app-debugAndroidTest-5 /Users/murat/AndroidStudioProjects/ByteDanceAgoraCrashExample/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

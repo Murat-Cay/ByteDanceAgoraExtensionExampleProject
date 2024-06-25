@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.volvoxmobile.bytedanceagoracrashexample.app-mergeDebugResources-45:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/murat/.gradle/caches/transforms-4/25f16050676201ad372c27f970c2135b/transformed/appcompat-1.5.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="text_size_6">6sp</dimen>
+    <dimen name="text_size_7">7sp</dimen>
+    <dimen name="text_size_8">8sp</dimen>
+    <dimen name="text_size_9">9sp</dimen>
+    <dimen name="text_size_xxxsmall">8sp</dimen>
+    <dimen name="text_size_xxsmall">10sp</dimen>
+    <dimen name="text_size_xsmall">11sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_smallm">13sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_semi_large">16sp</dimen>
+    <dimen name="text_size_center_large">17sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_center_xlarge">19sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xslarge">21sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_xxxlarge">32sp</dimen>
+    <dimen name="text_size_xxxxlarge">48sp</dimen>
+
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_6dp">6dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_18dp">18dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_28dp">28dp</dimen>
+    <dimen name="dimen_32dp">32dp</dimen>
+    <dimen name="dimen_36dp">36dp</dimen>
+    <dimen name="dimen_3dp">3dp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_0dp">0dp</dimen>
+    <dimen name="dimen_136dp">136dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+    <dimen name="dimen_44dp">44dp</dimen>
+    <dimen name="dimen_50dp">50dp</dimen>
+    <dimen name="dimen_64dp">64dp</dimen>
+    <dimen name="dimen_border_width">0.3dp</dimen>
+
+    <dimen name="gift_item_width">80dp</dimen>
+    <dimen name="small_video_container_width">80dp</dimen>
+    <dimen name="small_video_container_height">116dp</dimen>
+    <dimen name="pulsator_margin_rate">96dp</dimen>
+
+    <dimen name="bottom_navigation_icon_size" tools:override="true">40dp</dimen>
+
+    <dimen name="badge_horizontal_offset">12dp</dimen>
+    <dimen name="badge_vertical_offset">12dp</dimen>
+
+    <dimen name="beauty_item_padding">8dp</dimen>
+    <dimen name="beauty_item_padding_background">1dp</dimen>
+
+</resources>

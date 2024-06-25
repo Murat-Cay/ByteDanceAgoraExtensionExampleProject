@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "ByteDanceAgoraCrashExample"
+include ':app'
+include ':lib_bytedance'
+include ':lib_bytedance_EffectAAR'
+project(':lib_bytedance_EffectAAR').projectDir = new File(settingsDir, 'lib_bytedance/libs/EffectAAR')
